@@ -1,0 +1,6 @@
+rem itu 2x nya px
+display block (biar ke full)
+inline-block : menuhin baris (ukuran nya akan full)
+
+yg pake media (bisa dipakai semua ukuran layar)
+display: inline-block : untuk icon jadi sejajar
